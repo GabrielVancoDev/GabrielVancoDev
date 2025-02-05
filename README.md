@@ -14,7 +14,7 @@
 
 ## Estatisticas
 
-src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=GabrielVancoDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=GabrielVancoDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 <img  align="left" 
 alt="GitHub Stats" 
 height="150" 
