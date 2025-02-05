@@ -15,10 +15,10 @@
 
 <div>
     <a href="malito:gabrielvanco111223@gmail.com">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" /> 
+            <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" /> 
           </a>
-  <a href="https://www.linkedin.com/in/gabriel-van%C3%A7o-387951307/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" /> 
+  <a  href="https://www.linkedin.com/in/gabriel-van%C3%A7o-387951307/">
+            <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" /> 
           </a>
 </div>
 
