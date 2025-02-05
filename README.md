@@ -1,5 +1,5 @@
 ## Olá, eu sou Gabriel Vanço
-<p>Faço <strong>ADS</strong> presencial, estou o inciando o 3° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor</p>
+<p>Faço <strong>ADS</strong> presencial, estou o inciando o 3° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor front-End</p>
 📚 -Atualmente estou estudando programação front-End, com HTML, CSS e JS<br>
 📚 -Lógica de programação em C e JS <br>
 📚 -Diagramação de sites<br>
@@ -12,6 +12,15 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+
+<div>
+    <a href="malito:gabrielvanco111223@gmail.com">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" /> 
+          </a>
+  <a href="https://www.linkedin.com/in/gabriel-van%C3%A7o-387951307/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" /> 
+          </a>
+</div>
 
 ## Estatisticas
 
