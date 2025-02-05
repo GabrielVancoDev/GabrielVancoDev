@@ -13,6 +13,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 
+## Contato
 <div>
     <a href="malito:gabrielvanco111223@gmail.com">
             <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" target="_blank" /> 
