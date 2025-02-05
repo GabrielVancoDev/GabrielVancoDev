@@ -1,8 +1,9 @@
 ## Olá, eu sou Gabriel Vanço
-
+<p>Faço <strong>ADS</strong> presencial, estou o inciando o 3° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor</p>
 📚 -Atualmente estou estudando programação front-End, com HTML, CSS e JS<br>
-📚 -Reforçando lógica de programação <br>
+📚 -Lógica de programação em C e JS <br>
 📚 -Diagramação de sites<br>
+
 
 ## Linguagens
 
