@@ -15,18 +15,8 @@
 
 ## Contato
 
-<div>
-    <a href="malito:gabrielvanco111223@gmail.com" >
-            <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"  target="_blank" /> 
-          </a>
-  <a  href="https://www.linkedin.com/in/gabriel-van%C3%A7o-387951307/" target="_blank" >
-            <img width="32" height="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"/> 
-          </a>
-
- <div>
-<a href = "mailto:natiele887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/natiele-nogueira-de-paula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<a href = "mailto:gabrielvanco111223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/natiele-nogueira-de-paula/](https://www.linkedin.com/in/gabriel-van%C3%A7o-387951307/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## Estatisticas
