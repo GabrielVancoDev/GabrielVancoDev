@@ -32,5 +32,5 @@ src="https://github-readme-stats.vercel.app/api?username=GabrielVancoDev&show_ic
 alt="GitHub Stats" 
 height="150" 
 style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVancoDev&layout=compact&langs_count=16&theme=Miasma"/>
+src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
 
