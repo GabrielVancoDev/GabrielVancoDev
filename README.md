@@ -33,5 +33,5 @@ style="padding-right: 10px;"
 alt="GitHub Stats" 
 height="150" 
 style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+src="https://github-readme-stats.vercel.app/api?username=GabrielVancoDev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
 
