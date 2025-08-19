@@ -1,6 +1,6 @@
 ## Olá, eu sou Gabriel Vanço
-<p>Faço <strong>ADS Presencial em Londrina</strong> presencial, estou o inciando o 3° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor front-End</p>
-📚 -Atualmente estou estudando programação front-End, com HTML, CSS e JS<br>
+<p>Faço <strong>ADS Presencial em Londrina</strong> presencial, estou o inciando o 4° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor full-stack</p>
+📚 -Atualmente estou estudando programação orientada a objetos com JAVA<br>
 📚 -Lógica de programação em C e JS <br>
 
 
