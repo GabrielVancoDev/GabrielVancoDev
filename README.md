@@ -1,5 +1,5 @@
 ## Olá, eu sou Gabriel Vanço
-<p>Faço <strong>ADS Presencial em Londrina</strong> presencial, estou o inciando o 4° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor full-stack</p>
+<p>Faço <strong>ADS Presencial em Londrina</strong> presencial, estou cursando o 5° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor full-stack</p>
 📚 -Atualmente estou estudando programação orientada a objetos com JAVA<br>
 📚 -Lógica de programação em C e JS <br>
 
@@ -10,6 +10,8 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/nodejs-original.svg">
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/mysql-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 
 ## Contato
