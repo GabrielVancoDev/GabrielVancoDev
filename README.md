@@ -1,5 +1,5 @@
-## Olá, eu sou Gabriel Vanço
-<p>Faço <strong>ADS Presencial em Londrina</strong> presencial, estou cursando o 5° Semestre. Meu objetivo é evoluir na minha carreira como desenvolvedor full-stack</p>
+## Olá, eu sou Gabriel Vanço - Desenvolvedor Web
+<p>Faço <strong>ADS Presencial em Londrina</strong> presencial, estou cursando o 5° Semestre.</p>
 📚 -Atualmente estou estudando programação orientada a objetos com JAVA<br>
 📚 -Lógica de programação em C e JS <br>
 
