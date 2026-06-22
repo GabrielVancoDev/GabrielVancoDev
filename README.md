@@ -1,7 +1,6 @@
 ## Olá, eu sou Gabriel Vanço - Desenvolvedor Web
-<p>Faço <strong>ADS Presencial em Londrina</strong> presencial, estou cursando o 5° Semestre.</p>
-📚 -Atualmente estou estudando programação orientada a objetos com JAVA<br>
-📚 -Lógica de programação em C e JS <br>
+<p>Fromando em <strong>Análise e Desenvolvimento de Sistemas</strong></p>
+📚 -Estudando Conceitos de Programação Avançada com NestJS e React<br>
 
 
 ## Linguagens
@@ -13,6 +12,8 @@
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+
 
 ## Contato
 
